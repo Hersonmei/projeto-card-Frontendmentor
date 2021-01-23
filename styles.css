@@ -16,7 +16,7 @@ body{
   }
 
   .card-white{
-    width: 350px;
+    width: 306px;
     height: 250px;
     background-color: white;
     border-bottom-left-radius: 25px;
@@ -42,6 +42,17 @@ body{
     z-index: 2;
   }
 
+    .name-age{
+      text-align: center;
+      display: inline;
+      margin: auto;
+      
+    }
+
+    #city{
+      text-align: center;
+      margin: 0;
+    }
   
 
 
